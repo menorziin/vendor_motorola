@@ -437,30 +437,30 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov16860_video_4k.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov16860_video_4k.so \
     vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov16860_zsl_preview_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov16860_zsl_preview_3a.so \
     vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov16860_zsl_video_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov16860_zsl_video_3a.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_aljeterht_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_aljeterht_common.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_aljeterht_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_aljeterht_cpp_hfr_120.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_aljeterht_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_aljeterht_cpp_liveshot.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_aljeterht_cpp_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_aljeterht_cpp_preview.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_aljeterht_cpp_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_aljeterht_cpp_snapshot.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_aljeterht_cpp_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_aljeterht_cpp_video.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_aljeterht_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_aljeterht_hfr_120.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_aljeterht_hfr_120_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_aljeterht_hfr_120_3a.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_aljeterht_postproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_aljeterht_postproc.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_aljeterht_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_aljeterht_snapshot.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_aljeterht_zsl_preview_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_aljeterht_zsl_preview_3a.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_aljeterht_zsl_video_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_aljeterht_zsl_video_3a.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_aljeterkc_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_aljeterkc_common.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_aljeterkc_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_aljeterkc_cpp_hfr_120.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_aljeterkc_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_aljeterkc_cpp_liveshot.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_aljeterkc_cpp_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_aljeterkc_cpp_preview.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_aljeterkc_cpp_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_aljeterkc_cpp_snapshot.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_aljeterkc_cpp_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_aljeterkc_cpp_video.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_aljeterkc_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_aljeterkc_hfr_120.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_aljeterkc_hfr_120_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_aljeterkc_hfr_120_3a.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_aljeterkc_postproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_aljeterkc_postproc.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_aljeterkc_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_aljeterkc_snapshot.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_aljeterkc_zsl_preview_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_aljeterkc_zsl_preview_3a.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_aljeterkc_zsl_video_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_aljeterkc_zsl_video_3a.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_jeterht_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_jeterht_common.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_jeterht_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_jeterht_cpp_hfr_120.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_jeterht_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_jeterht_cpp_liveshot.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_jeterht_cpp_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_jeterht_cpp_preview.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_jeterht_cpp_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_jeterht_cpp_snapshot.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_jeterht_cpp_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_jeterht_cpp_video.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_jeterht_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_jeterht_hfr_120.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_jeterht_hfr_120_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_jeterht_hfr_120_3a.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_jeterht_postproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_jeterht_postproc.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_jeterht_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_jeterht_snapshot.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_jeterht_zsl_preview_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_jeterht_zsl_preview_3a.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_jeterht_zsl_video_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_jeterht_zsl_video_3a.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_jeterkc_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_jeterkc_common.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_jeterkc_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_jeterkc_cpp_hfr_120.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_jeterkc_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_jeterkc_cpp_liveshot.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_jeterkc_cpp_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_jeterkc_cpp_preview.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_jeterkc_cpp_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_jeterkc_cpp_snapshot.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_jeterkc_cpp_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_jeterkc_cpp_video.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_jeterkc_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_jeterkc_hfr_120.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_jeterkc_hfr_120_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_jeterkc_hfr_120_3a.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_jeterkc_postproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_jeterkc_postproc.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_jeterkc_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_jeterkc_snapshot.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_jeterkc_zsl_preview_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_jeterkc_zsl_preview_3a.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5675_jeterkc_zsl_video_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5675_jeterkc_zsl_video_3a.so \
     vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5693_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5693_common.so \
     vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5693_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5693_cpp_hfr_120.so \
     vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5693_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5693_cpp_liveshot.so \
@@ -473,30 +473,30 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5693_postproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5693_postproc.so \
     vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5693_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5693_snapshot.so \
     vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_ov5693_snapshot_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5693_snapshot_3a.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_aljeterht_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_aljeterht_common.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_aljeterht_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_aljeterht_cpp_hfr_120.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_aljeterht_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_aljeterht_cpp_liveshot.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_aljeterht_cpp_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_aljeterht_cpp_preview.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_aljeterht_cpp_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_aljeterht_cpp_snapshot.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_aljeterht_cpp_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_aljeterht_cpp_video.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_aljeterht_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_aljeterht_hfr_120.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_aljeterht_hfr_120_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_aljeterht_hfr_120_3a.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_aljeterht_postproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_aljeterht_postproc.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_aljeterht_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_aljeterht_snapshot.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_aljeterht_zsl_preview_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_aljeterht_zsl_preview_3a.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_aljeterht_zsl_video_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_aljeterht_zsl_video_3a.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_aljetertr_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_aljetertr_common.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_aljetertr_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_aljetertr_cpp_hfr_120.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_aljetertr_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_aljetertr_cpp_liveshot.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_aljetertr_cpp_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_aljetertr_cpp_preview.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_aljetertr_cpp_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_aljetertr_cpp_snapshot.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_aljetertr_cpp_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_aljetertr_cpp_video.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_aljetertr_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_aljetertr_hfr_120.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_aljetertr_hfr_120_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_aljetertr_hfr_120_3a.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_aljetertr_postproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_aljetertr_postproc.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_aljetertr_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_aljetertr_snapshot.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_aljetertr_zsl_preview_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_aljetertr_zsl_preview_3a.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_aljetertr_zsl_video_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_aljetertr_zsl_video_3a.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_jeterht_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_jeterht_common.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_jeterht_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_jeterht_cpp_hfr_120.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_jeterht_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_jeterht_cpp_liveshot.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_jeterht_cpp_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_jeterht_cpp_preview.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_jeterht_cpp_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_jeterht_cpp_snapshot.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_jeterht_cpp_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_jeterht_cpp_video.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_jeterht_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_jeterht_hfr_120.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_jeterht_hfr_120_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_jeterht_hfr_120_3a.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_jeterht_postproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_jeterht_postproc.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_jeterht_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_jeterht_snapshot.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_jeterht_zsl_preview_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_jeterht_zsl_preview_3a.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_jeterht_zsl_video_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_jeterht_zsl_video_3a.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_jetertr_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_jetertr_common.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_jetertr_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_jetertr_cpp_hfr_120.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_jetertr_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_jetertr_cpp_liveshot.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_jetertr_cpp_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_jetertr_cpp_preview.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_jetertr_cpp_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_jetertr_cpp_snapshot.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_jetertr_cpp_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_jetertr_cpp_video.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_jetertr_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_jetertr_hfr_120.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_jetertr_hfr_120_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_jetertr_hfr_120_3a.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_jetertr_postproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_jetertr_postproc.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_jetertr_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_jetertr_snapshot.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_jetertr_zsl_preview_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_jetertr_zsl_preview_3a.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3l8_jetertr_zsl_video_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_jetertr_zsl_video_3a.so \
     vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3p3_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3p3_common.so \
     vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3p3_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3p3_cpp_hfr_120.so \
     vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k3p3_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3p3_cpp_liveshot.so \
@@ -519,18 +519,18 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k4h7_cpp_video_full.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k4h7_cpp_video_full.so \
     vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k4h7_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k4h7_hfr_120.so \
     vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k4h7_hfr_120_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k4h7_hfr_120_3a.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k4h7_aljeterof_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k4h7_aljeterof_common.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k4h7_aljeterof_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k4h7_aljeterof_cpp_hfr_120.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k4h7_aljeterof_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k4h7_aljeterof_cpp_liveshot.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k4h7_aljeterof_cpp_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k4h7_aljeterof_cpp_preview.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k4h7_aljeterof_cpp_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k4h7_aljeterof_cpp_snapshot.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k4h7_aljeterof_cpp_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k4h7_aljeterof_cpp_video.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k4h7_aljeterof_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k4h7_aljeterof_hfr_120.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k4h7_aljeterof_hfr_120_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k4h7_aljeterof_hfr_120_3a.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k4h7_aljeterof_postproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k4h7_aljeterof_postproc.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k4h7_aljeterof_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k4h7_aljeterof_snapshot.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k4h7_aljeterof_zsl_preview_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k4h7_aljeterof_zsl_preview_3a.so \
-    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k4h7_aljeterof_zsl_video_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k4h7_aljeterof_zsl_video_3a.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k4h7_jeterof_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k4h7_jeterof_common.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k4h7_jeterof_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k4h7_jeterof_cpp_hfr_120.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k4h7_jeterof_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k4h7_jeterof_cpp_liveshot.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k4h7_jeterof_cpp_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k4h7_jeterof_cpp_preview.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k4h7_jeterof_cpp_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k4h7_jeterof_cpp_snapshot.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k4h7_jeterof_cpp_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k4h7_jeterof_cpp_video.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k4h7_jeterof_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k4h7_jeterof_hfr_120.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k4h7_jeterof_hfr_120_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k4h7_jeterof_hfr_120_3a.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k4h7_jeterof_postproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k4h7_jeterof_postproc.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k4h7_jeterof_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k4h7_jeterof_snapshot.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k4h7_jeterof_zsl_preview_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k4h7_jeterof_zsl_preview_3a.so \
+    vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k4h7_jeterof_zsl_video_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k4h7_jeterof_zsl_video_3a.so \
     vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k4h7_postproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k4h7_postproc.so \
     vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k4h7_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k4h7_snapshot.so \
     vendor/motorola/aljeter/proprietary/vendor/lib/libchromatix_s5k4h7_video_full.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k4h7_video_full.so \
